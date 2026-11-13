@@ -1,0 +1,15 @@
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\bin\Debug\net10.0\Task03.temperatures.exe
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\bin\Debug\net10.0\Task03.temperatures.deps.json
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\bin\Debug\net10.0\Task03.temperatures.runtimeconfig.json
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\bin\Debug\net10.0\Task03.temperatures.dll
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\bin\Debug\net10.0\Task03.temperatures.pdb
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.AssemblyInfoInputs.cache
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.AssemblyInfo.cs
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.csproj.CoreCompileInputs.cache
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.sourcelink.json
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.dll
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\refint\Task03.temperatures.dll
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.pdb
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\Task03.temperatures.genruntimeconfig.cache
+C:\Users\cherk\Desktop\програмирование\Task03.Temperatures\obj\Debug\net10.0\ref\Task03.temperatures.dll
